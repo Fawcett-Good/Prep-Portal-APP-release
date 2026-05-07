@@ -9,7 +9,7 @@ iOS is **not** supported
 
 # Installation
 
-Prep Portal's APK download is located [here](https://github.com/Fawcett-Good/PrepPortal-APP/releases) on Github releases.\
+Prep Portal's APK download is located [here](https://github.com/Fawcett-Good/Prep-Portal-APP-release/releases) on Github releases.\
 An installation guide is also provided below to help you get started
 
 **1. Allow Installation of Unknown Apps**\
@@ -25,7 +25,7 @@ Steps may vary slightly depending on device model, but the general process is:
 7) Enable: Allow from this source
 
 **2. Install the APK File from Github releases**\
-Download the APK file for Prep Portal [here](https://github.com/Fawcett-Good/PrepPortal-APP/releases)\
+Download the APK file for Prep Portal [here](https://github.com/Fawcett-Good/Prep-Portal-APP-release/releases)\
 Use Chrome or a File Manager to install the APP from the APK file.
 
 # Credits
