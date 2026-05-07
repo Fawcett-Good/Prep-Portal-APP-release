@@ -26,7 +26,7 @@ Steps may vary slightly depending on device model, but the general process is:
 
 **2. Install the APK File from Github releases**\
 Download the APK file for Prep Portal [here](https://github.com/Fawcett-Good/Prep-Portal-APP-release/releases)\
-Use Chrome or a File Manager to install the APP from the APK file.
+Chrome or almost any file manager can be used to install the APP from the APK file.
 
 # Credits
 **Author**\
