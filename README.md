@@ -37,4 +37,4 @@ Team Fawcett Good | ACAIA 2025-2026 \
 
 **License**\
 This software is for educational purposes and school use only.\
-Author does not take any responsibiity for any illegal activity using this software.
+Author does not take responsibiity for any illegal activity using this software.
